@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71328&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code+is+Law.;%E4%BB%A3%E7%A0%81%E5%8D%B3%E6%B3%95%E5%BE%8B+%E2%80%94%E2%80%94+%E6%8A%80%E6%9C%AF%E8%87%B3%E4%B8%8A%EF%BC%8C%E8%A7%84%E5%88%99%E7%94%B1%E6%88%91%E5%AE%9A%E4%B9%89)](https://git.io/typing-svg)
