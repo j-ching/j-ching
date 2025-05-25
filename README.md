@@ -1,4 +1,4 @@
-# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%EF%BC%8C%E6%88%91%E6%98%AF%E9%9B%B6%E5%8F%B7%E7%A8%8B%E5%BA%8F;Master+of+the+Stack%EF%BC%81;Silent+Code%2C+Loud+Impact%EF%BC%81;Code+is+Law%EF%BC%81)](https://git.io/typing-svg)
+#  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%EF%BC%8C%E6%88%91%E6%98%AF%E9%9B%B6%E5%8F%B7%E7%A8%8B%E5%BA%8F;Master+of+the+Stack%EF%BC%81;Silent+Code%2C+Loud+Impact%EF%BC%81;Code+is+Law%EF%BC%81)](https://git.io/typing-svg)
 
 ## 🌟 关于我
 - 🧑‍💻 我是一名大厂P8程序员
