@@ -5,7 +5,7 @@
 - 📍 现居于 北京
 - 💬 擅长技术方向：[大数据技术领域，例如：Flink、Spark、Hadoop、Presto、ODPS、HBase、SLS、Kafka、RocketMQ等]
 - 🚀 正在学习和探索：[AI相关技术：Spring  AI、RAG 流程、向量数据库、提示词工程、MCP协议等]
-![image](https://github.com/user-attachments/assets/987d57e2-d187-4c8c-8fb3-aa83632c8cf8)
+
 
 ## 🔗 联系方式
 - 📘 博客: []
